@@ -1,0 +1,141 @@
+/*
+  Localizable.strings
+  万能AIT
+
+  Created by Mac on 17/3/21.
+  Copyright © 2017年 APK. All rights reserved.
+*/
+"摄像机" = "Kamera";
+"本地" = "Lokal";
+"DVR" = "DVR";
+"删除%d个文件？" = "%d Dateien löschen?";
+"%d个文件删除失败！" = "%d Dateien konnten nicht gelöscht werden.";
+"取消" = "Abbrechen";
+"确定" = "Bestätigen";
+"相册" = "Album";
+"设置" = "Einstellungen";
+"wifi设置" = "WiFi-Einstellungen";
+"校准时间" = "Zeiteinstellung";
+"格式化SD卡" = "SD-Karte formatieren";
+"录音设置" = "Mikrofon";
+"录制时长" = "Dauerschleifenaufnahme";
+"碰撞灵敏度" = "G-Sensor";
+"恢复出厂设置" = "Werkseinstellungen";
+
+"曝光调整" = "Darstellung";
+//"自动关屏" = "LCD Power Save";
+//"戳记" = "Date Stamp";
+//"日期格式" = "Date Format" ;
+//"移动侦测" = "Motion Detection";
+"15秒" = "15 Sek.";
+//"日期+型号" = "Date+Logo";
+//"日期" = "Date";
+"无" = "Keine";
+//"年月日" = "YYYY MM DD";
+//"月日年" = "MM DD YYYY";
+//"日月年" = "DD MM YYYY";
+
+"30秒" = "30 Sek.";
+"1分钟" = "1 Min.";
+"3分钟" = "3 Min.";
+"5分钟" = "5 Min.";
+"关闭" = "Aus";
+"低" = "Niedrig";
+"中" = "Mittel";
+"高" = "Hoch";
+"共有%d个文件" = "%d files";
+"未连接DVR" = "DVR ist nicht verbunden!";
+"照片" = "Foto";
+"视频" = "Video";
+"事件" = "Ereignis";
+"选择" = "Auswählen";
+"全选" = "Alles";
+"未选择文件" = "Bitte Datei auswählen";
+"Wi-Fi名称必须为1-27个非空字符。" = "Neue SSID (1 bis 27 Bits)";
+"Wi-Fi密码必须为8-32个非空字符。" = "Neues Passwort (8 bis 32 Bits)";
+"更新" = "Speichern";
+"修改成功！" = "Einstellung gespeichert!";
+"修改失败！" = "Einstellung fehlgeschlagen!";
+"摄像机时间将会校准为：" = "Die DVR-Zeit wird kalibriert auf:";
+"校准时间失败！" = "Die Kalibrierzeit ist fehlgeschlagen.";
+"校准时间成功！" = "Die Kalibrierzeit ist erfolgreich.";
+"格式化SD卡失败！" = "Die formatierte sd-Karte ist fehlgeschlagen.";
+"格式化SD卡成功！" = "Die formatierte sd-Karte war erfolgreich.";
+"恢复出厂设置失败！" = "Werkseinstellungen können nicht wiederhergestellt werden.";
+"恢复出厂设置成功！" = "Stellen Sie Fabrikeinstellungen erfolgreich wieder her.";
+"设置失败！" = "Einstellung fehlgeschlagen!";
+"设置成功" = "Einstellung gespeichert!";
+
+"DVR将会重启Wi-Fi" = "Dvr wird neu starten.";
+"下载" = "Download";
+"该视频已下载" = "Das Video wurde heruntergeladen.";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Bitte erlauben Sie den Zugriff auf das iPhone-Album, sonst kann die Download-Funktion nicht verwendet werden.";
+
+//new
+"设备拍照成功！" = "Foto aufgenommen!";
+"设备拍照失败！" = "Fotoaufnahme fehlgeschlagen!";
+"帮助" = "Hilfe";
+"关于" = "Über DVR";
+//"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "Bitte stellen Sie sicher, dass das WiFi der Dashcam eingeschaltet und Ihr Mobiltelefon mit dem WiFi verbunden ist.\n WiFi Name: DC2 und Standard-Passwort 12345678.";
+"保存失败！" = "Download fehlgeschlagen.";
+"问题1" = "F1: Mein DVR zeichnet nach dem Einlegen der SD-Karte nicht auf?";
+"答案1" = "Formatieren Sie die SD-Karte in den Einstellungen dieser App. Nach erfolgreicher Formatierung beginnt Ihr DVR mit der Aufnahme.";
+"问题2" = "F2: Einstellungen werden nach dem Ein- und Ausschalten nicht gespeichert?";
+"答案2" = "Laden Sie zum Update Ihres DVR die aktualisierte Firmware von der offiziellen Ampire-Website herunter und folgen den Anweisungen.";
+"问题3" = "F3: Meine Dashcam-Halterung oder mein Netzteil sind ausgefallen?";
+"答案3" = "Falls während der Gewährleistungszeit ein Zubehörteil aufgrund eines Herstellungsfehlers ausfällt oder Sie Ersatzzubehör benötigen, wenden Sie sich bitte an das Ampire-Support-Team unter +49-2181-819550.";
+"问题4" = "F4: Meine Dashcam meldet einen Fehler beim Lesen der SD-Karte.";
+"答案4" = "Um einen reibungslosen Betrieb Ihrer DC2-Dashcam zu gewährleisten, empfehlen wir dringend, dass Sie eine Micro SD mit den, in Ihrem Benutzerhandbuch angegebenen Spezifikationen verwenden. Die Mindestanforderung ist ein Markenprodukt mit Class 10 Standard und mindestens 32GB bis maximal 128 GB, sowie Karten, die einen mehrschichtigen NAND-Typ enthalten. Alle Geräte haben auch eine maximale Kapazitätsgrenze.";
+"问题5" = "F5: Meine Dashcam meldet, dass die Karte voll ist?";
+"答案5" = "Der integrierte G-Sensor kann verwendet und ausgelöst werden, um Ereignisse aufzuzeichnen, wenn Ihr Fahrzeug geparkt und ausgeschaltet ist. Wenn die Kamera eine Bewegung oder eine Stoßbewegung erkennt, zeichnet sie eine kurze schreibgeschützte Datei auf, die von der Schleifenaufzeichnung nicht gelöscht werden kann. Wir empfehlen, in regelmäßigen Abständen die Micro SD-Karte manuell zu formatieren, um dadurch belegte und geschützte Dateien freizugeben.";
+"问题6" = "F6: Wird die Batterie meiner Dashcam wird bei Verwendung leer?";
+"答案6" = "Wenn Sie beabsichtigen, die Dashcam für die Aufnahme während der Fahrt zu verwenden, muss das Gerät an das dafür vorgesehene Netzteil angeschlossen werden. Der eingebaute Akku versorgt die Kamera nur mit Reservestrom, um die Speicher-, Datums- und Uhrzeiteinstellungen beizubehalten.";
+"问题7" = "F7: Meine Dashcam scheint während des Betriebs einzufrieren?";
+"答案7" = "Das Einfrieren der meisten Betriebsfunktionen kann auf die Verwendung einer falschen Micro-SD-Karte zurückgeführt werden. Um dieses Problem zu prüfen, empfiehlt Ampire, eine andere kompatible Karte zu verwenden.";
+"问题8" = "F8: Meine Dashcam kann keine WiFi-Verbindung hergestellen?";
+"答案8" = "Stellen Sie sicher, dass das WiFi der Dashcam aktiviert ist. Es gibt eine Sprachbenachrichtigung zur Information über den WIFI-Ein/Aus-Status. WIFI kann durch kurzes Drücken der Einschalttaste an der Frontkamera ein- und ausgeschaltet werden.";
+
+"加载视频失败！" = "Das Video wird nicht geladen.";
+"该视频不可播放！" = "Das Video kann nicht abgespielt werden.";
+
+//雄风
+//"翻转" = "Flip to 180";
+//"视频模式" = "Video Mode";
+//"型号" = "Logo";
+
+"前置" = "Front";
+"后置" = "Heck";
+//"编号-数值" = "";
+//"成功" = "Success";
+//"失败" = "Fail";
+//"定位" = "Location";
+//"版本" = "Version";
+//"个数" = "Number";
+"检测SD卡失败" = "Die Erkennungs-sd-Karte ist fehlgeschlagen.";
+"音量" = "Lautstärke";
+//"超速提醒" = "Speed Limit Alert";
+//"电子狗" = "Speed Camera Alerts";
+//"停车监控" = "Parking Mode";
+"关" = "Aus";
+"开" = "An";
+
+//"硬件升级提示" = "An updated version of the firmware is available,Please open the Kapture website on your Computer and download the update.";
+"忽略" = "Ignorieren";
+"确认" = "Bestätigen";
+
+//"缩时录影" = "Timelapse";
+"OTA升级" = "Firmware Update";
+
+"已是最新版本" = "Es ist die neueste Version.";
+"无发布版本" = "Unveröffentlichte Version";
+"发生未知错误，无法升级" = "Ein unbekannter Fehler kann nicht aktualisiert werden.";
+"升级包上传中..." = "Das Upgrade-Paket wird hochgeladen.";
+"升级包正在下载，请稍后..." = "Das Upgrade-Paket wird später heruntergeladen.";
+
+//"没有ACC，无法设置此功能" = "Without ACC, this function cannot be set";
+"升级包已经上传成功，是否立即重启？" = "Das Upgrade-Paket wurde erfolgreich hochgeladen, wird es sofort neu gestartet?";
+
+"语言设置" = "Spracheinstellungen";
+"德语" = "Deutsch";
+"英语" = "Englisch";
